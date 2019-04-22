@@ -1,5 +1,3 @@
-MINH TRỊ DUY TÂN (明治維新 – MEIJI ISHIN)
-===
 ## 1. Bối cảnh
 ### 1.1 Đôi nét về xã hội Nhật Bản cuối thời kỳ Edo
 - __Thời kỳ Edo__ (江戸時代, _Giang Hộ thời đại_) kéo dài từ 1603 đến 1868, là một giai đoạn lịch sử của Nhật Bản trước khi Thiên hoàng Minh Trị lên ngôi.
