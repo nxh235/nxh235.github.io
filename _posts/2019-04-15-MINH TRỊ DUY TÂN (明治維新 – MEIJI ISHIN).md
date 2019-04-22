@@ -1,21 +1,38 @@
 ## 1. Bối cảnh
 ### 1.1 Đôi nét về xã hội Nhật Bản cuối thời kỳ Edo
+![Image](https://nxh235.github.io/assets/img/DuyTan/image06.png "Bức tranh Sóng lừng ngoài khơi Kanagawa")
+<center><i>Bức tranh sóng lừng ngoài khơi nổi tiếng của nghệ sỹ Hokusai được xuất bản vào cuối thời kỳ Edo.</i></center>
+<br>
+
 - __Thời kỳ Edo__ (江戸時代, _Giang Hộ thời đại_) kéo dài từ 1603 đến 1868, là một giai đoạn lịch sử của Nhật Bản trước khi Thiên hoàng Minh Trị lên ngôi.
 - Xã hội Nhật Bản chịu sự thống trị bởi ___Mạc phủ Tokugawa___ (徳川幕府, _Đức Xuyên Mạc phủ_).
 - Từ năm 1633, Chính quyền Mạc Phủ Tokugawa thực hiện chính sách __Tỏa quốc__ (鎖国, _Sakoku_) __cốt yếu nhằm loại bỏ sự ảnh hưởng tôn giáo và thực dân từ Tây Ban Nha và Bồ Đào Nha__, vốn được coi là mối đe dọa tới sự ổn định chính quyền Mạc phủ và hòa bình khu vực, nhất là trong tình trạng số người cải đạo Công giáo ngày càng tăng ở miền nam Nhật Bản (đến năm 1853 thì chấm dứt chính sách này dưới sức ép từ Hoa Kỳ). 
 - Tỏa quốc hạn chế tối đa giao thương và ngoại giao với các quốc gia khác; không người nước ngoài nào được vào Nhật Bản hay người Nhật Bản nào được rời xứ sở. 
 - Tuy nhiên, vào thời gian này người Nhật vẫn duy trì mối quan hệ giao thương với Hà Lan và Trung Quốc, tàu buôn Hà Lan vẫn đư­ợc phép buôn bán ở cảng Nagasaki.
 ### 1.2 Áp lực thông thương và ngoại giao từ các quốc gia phương Tây
+<br>
+
+![Image](https://nxh235.github.io/assets/img/DuyTan/image05.png "Hạm đội của Perry trong chuyến viễn chinh tới Nhật Bản lần thứ 2 vào năm 1854.")
+<center><i>Hạm đội của Perry trong chuyến viễn chinh tới Nhật Bản lần thứ 2 vào năm 1854.</i></center>
+<br>
+
 - Năm 1853, ___Đô Đốc Matthew C. Perry___, hải quân Hoa Kỳ, cùng đoàn 4 tàu chiến thực hiện cuộc viễn chinh tới Nhật Bản để uy hiếp ép Nhật Bản mở cửa các cảng và thực hiện giao thương với Hoa Kỳ. 
 - __Lý do:__
     - Nửa sau thế kỷ XIX, giao thương giữa Hoa Kỳ và Trung Hoa gia tăng sau hai cuộc _chiến tranh nha phiến_.
     - Hầu hết các trạm tiếp nhiên liệu tàu thuyền ở châu Á bị người Anh, Pháp độc quyền, Hoa Kỳ cần xây dựng trạm tiếp nhiên liệu để không bị phụ thuộc.
     - Vùng biển Nhật Bản là nơi tập trung nhiều cá voi, việc xây dựng căn cứ tại đây sẽ thuận lợi cho việc săn bắt.
 - Sau khi cho Nhật Bản một khoảng thời gian để cân nhắc việc thiết lập quan hệ đối ngoại, đô đốc M. C. Perry trở lại Tokyo vào tháng 3 năm 1854. 
-- Tới ngày 31 tháng 3 năm 1954, ___Abe Masahiro___ – ủy viên hội đồng cấp cao trong Mạc phủ Tokugawa đồng ý ký __"Hiệp ước Hòa bình và Hữu nghị"_, thiết lập quan hệ ngoại giao chính thức giữa Nhật Bản và Hoa Kỳ. Trong đó, phía Hoa Kỳ yêu cầu Nhật thực hiện:
+- Tới ngày 31 tháng 3 năm 1954, ___Abe Masahiro___ – ủy viên hội đồng cấp cao trong Mạc phủ Tokugawa đồng ý ký __"Hiệp ước Hòa bình và Hữu nghị"__, thiết lập quan hệ ngoại giao chính thức giữa Nhật Bản và Hoa Kỳ. Trong đó, phía Hoa Kỳ yêu cầu Nhật thực hiện:
     - Mở cửa hai cảng __Shimoda__ và __Hakodate__ cho các tàu Hoa Kỳ vào cư trú.
     - Đảm bảo đối xử tốt với các tàu bị đắm và các thủy thủ Hoa Kỳ.
     - Thành lập một __cơ quan ngoại giao__ tại Shimoda, miền nam Nhật Bản.
+
+<br>
+
+![Image](https://nxh235.github.io/assets/img/DuyTan/image05.png "Hạm đội của Perry trong chuyến viễn chinh tới Nhật Bản lần thứ 2 vào năm 1854.")
+<center><i>Hạm đội của Perry trong chuyến viễn chinh tới Nhật Bản lần thứ 2 vào năm 1854.</i></center>
+<br>
+
 - Liên tiếp các năm sau đó, Nhật Bản ký các hiệp ước, thỏa thuận bất bình đẳng với các quốc gia phương Tây bao gồm: 
     - Hiệp ước Hữu nghị __Anh – Nhật__ (10 – 1854)
     - Hiệp ước Thương mại và Hàng hải __Nga – Nhật__ (2 – 1855)
@@ -26,18 +43,53 @@
 ## 2. Công cuộc Duy tân
 ### 2.1 Khái quát
 - __Chiến tranh Mậu Thìn__ (1868 – 1869) kết thúc với chiến thắng thuộc về triều đình và những người ủng hộ phe triều đình đã đưa quyền lực tối cao điều hành đất nước Nhật Bản trở về với Thiên Hoàng. Mạc phủ chính thức bị giải thể.
-- Sau chiến tranh, Hoàng cung được chuyển từ Kyoto tới Edo, đổi tên thành __Tōkyō__ (東京, _Đông Kinh_), Thiên hoàng cùng các thuộc hạ thực hiện các chính sách yên dân, cải tổ và phát triển kinh tế, xã hội.
+- Sau chiến tranh, Hoàng cung được chuyển từ Kyōto tới Edo, đổi tên thành __Tōkyō__ (東京, _Đông Kinh_), Thiên hoàng cùng các thuộc hạ thực hiện các chính sách yên dân, cải tổ và phát triển kinh tế, xã hội.
+
+<br>
+
+![Image](https://nxh235.github.io/assets/img/DuyTan/image02.png "Thiên hoàng Minh Trị mới 16 tuổi, trong hành trình từ Kyōto về Tōkyō, vào cuối năm 1868.")
+<center><i>Thiên hoàng Minh Trị mới 16 tuổi, trong hành trình từ Kyōto về Tōkyō, vào cuối năm 1868.</i></center>
+<br>
+
 - Thời kỳ Minh Trị kéo dài 45 năm từ năm 1868 đến năm 1912 và đạt được nhiều thành tựu vượt bậc, đưa nước Nhật vị thế từ một nước có nguy cơ bị thuộc địa hóa bởi Tây phương thành một nước có trình độ phát triển ngang tầm các nước tiên tiến trên thế giới ở hầu hết các mặt.
 ## 2.2 Nội dung Duy tân
+
+<br>
+
+![Image](https://nxh235.github.io/assets/img/DuyTan/image09.png "Thiên hoàng Minh Trị")
+<center><i>Hình <b>Thiên hoàng Minh Trị</b> (ảnh màu) trong sách Tenno Yondai No Shozo (天皇四代の肖像, Thiên hoàng Tứ đại chi Tiêu tượng), xuất bản bởi Nhà xuất bản Mainichi (Mainichi Shinbun Sha, 毎日新聞社, Mỗi Nhật Tân văn xã).</i></center>
+<br>
+
 - Năm 1868, ___Mutsuhito___ (睦仁, _Mục Nhân_, tên húy của Thiên hoàng Minh Trị) chính thức đăng quang, công bố văn kiện __Năm điều tuyên thệ__ (五箇条の御誓文, _Ngũ cá điều ngự thệ văn_, _Five Charter Oath_) vạch ra đường lối hoạt động của quốc gia dưới triều đại Minh Trị, nội dung bao gồm hai điểm chính: 
     - __Một là__ tôn trọng ý kiến của các bên thảo luận đưa ra bất kể tầng lớp, giai cấp.
     - __Hai là__ mở cửa tiếp thu văn minh, tinh hoa nhân loại.
 - Năm 1871, ban hành đạo luật __Phế phiên, lập huyện__ (廃藩置県, _haihan–chiken_) thay thế hệ thống phiên phong kiến truyền thống Nhật Bản bằng các đơn vị hành chính do chính quyền trung ương thống nhất quản lý để tập trung quyền lực trung ương, đặt nền tảng cho sự hình thành quốc gia dân tộc hiện đại cùng với việc xây dựng nhà nước quân chủ lập hiến theo mô hình phương Tây.
+
+<br>
+
+![Image](https://nxh235.github.io/assets/img/DuyTan/image08.png "Sự phân chia Nhật Bản vào năm 1855, 28 năm trước cuộc phế phiên, lập huyện.")
+<center><i>Sự phân chia Nhật Bản vào năm 1855, 28 năm trước cuộc phế phiên, lập huyện.</i></center>
+<br>
+
 - Năm 1873 – 1881, thực thi __địa tô cải chính__ (地租改正, _chisokaisei_), ban hành Luật cải cách địa tô, xây dựng chế độ thuế đất mới có tính cận đại, cải cách chế độ đất đai.
 - Năm 1873, ra lệnh __tòng quân__, củng cố và phát triển quân lực, học hỏi một số mô hình quân đội phương Tây (chủ yếu là Phổ, và nhận sự hỗ trợ từ Anh, Pháp).
 - Áp dụng chế độ __giáo dục bắt buộc__, trẻ em nam – nữ trên 6 tuổi đều có nghĩa vụ phải đi học tiểu học. Nhiều phái đoàn được đưa ra nước ngoài để học hỏi, tiếp thu kiến thức, tình hình kinh tế, xã hội, chính trị các quốc gia trên thế giới để trở về áp dụng cho Nhật Bản, tiêu biểu là ___phái đoàn Iwakura___ (1871 – 1873).
+
+<br>
+
+![Image](https://nxh235.github.io/assets/img/DuyTan/image01.png "Hành trình phái đoàn Iwakura đi qua các quốc gia trên thế giới.")
+<center><i>Hành trình phái đoàn Iwakura đi qua các quốc gia trên thế giới.</i></center>
+<br>
+
 - Cải chính các hiệp ước đã ký với Anh, Hoa Kỳ.
 - Ngày 11/02/1889, ban hành __Hiến pháp Đế quốc Nhật Bản__, là bộ hiến pháp đầu tiên của một quốc gia nghị viện tại châu Á, đặt nền móng cho nền dân chủ và tiến bộ tại Nhật Bản.
+
+<br>
+
+![Image](https://nxh235.github.io/assets/img/DuyTan/image03.png "Ban bố Hiến pháp Đế quốc Nhật Bản (1889).")
+<center><i>Ban bố Hiến pháp Đế quốc Nhật Bản (1889).</i></center>
+<br>
+
 ## 3. Nguyên nhân Duy tân thành công
 ### 3.1 Theo Đào Trinh Nhất
 - Theo Đào Trinh Nhất, tác giả cuốn __「 Nhật Bản duy tân 30 năm 」__, trích dẫn từ Bá tước ___Đại Ôi Trọng Tín___ (大隈重信, _Ōkuma Shigenobu_) lý do Nhật Bản duy tân thành công bao gồm 3 nguyên nhân chính:
